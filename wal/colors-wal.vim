@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "None"
+let background = "#000000"
+let foreground = "#ffffff"
+let cursor     = "#ff0000"
+
+" Colors
+let color0  = "#000000"
+let color1  = "#ff0000"
+let color2  = "#ff0000"
+let color3  = "#ff0000"
+let color4  = "#ff0000"
+let color5  = "#ff0000"
+let color6  = "#ff0000"
+let color7  = "#ffffff"
+let color8  = "#000000"
+let color9  = "#ff0000"
+let color10 = "#ff0000"
+let color11 = "#ff0000"
+let color12 = "#ff0000"
+let color13 = "#ff0000"
+let color14 = "#ff0000"
+let color15 = "#ffffff"
