@@ -1,0 +1,8 @@
+/* Dark theme. */
+@import "~/.cache/wal/colors-rofi-dark"
+
+configuration {
+    font: "Hurmit Nerd Font 12";
+}
+
+
