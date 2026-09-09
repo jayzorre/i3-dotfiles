@@ -1,0 +1,68 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "C:/Users/jayzorre/.config/fastfetch/ascii.txt",
+    "color": {
+      "1": "#FF0000",
+      "2": "#FF0000",
+      "3": "#FF0000",
+      "4": "#FF0000",
+      "5": "#FF0000",
+      "6": "#FF0000",
+      "7": "#FF0000",
+      "8": "#FF0000",
+      "9": "#FF0000"
+    },
+    "padding": {
+      "top": 1,
+      "right": 3
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    "break",
+    {
+      "type": "title",
+      "color": {
+        "user": "#FF0000",
+        "at": "#FFFFFF",
+        "host": "#FF0000"
+      }
+    },
+    "break",
+    {
+      "type": "os",
+      "key": "",
+      "keyColor": "#FF0000"
+    },
+    {
+      "type": "cpu",
+      "key": "",
+      "keyColor": "#FF0000"
+    },
+    {
+      "type": "board",
+      "key": "󰚗",
+      "keyColor": "#FF0000"
+    },
+    {
+      "type": "memory",
+      "key": "",
+      "keyColor": "#FF0000",
+      "format": "{used} / {total} ({percentage})"
+    },
+    {
+      "type": "disk",
+      "key": "",
+      "keyColor": "#FF0000"
+    },
+    "break",
+    {
+      "type": "colors",
+      "symbol": "circle"
+    }
+  ]
+}
